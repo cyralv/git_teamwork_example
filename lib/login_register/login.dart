@@ -9,7 +9,9 @@ class LoginPage extends StatelessWidget {
       backgroundColor: Colors.amber ,
       body: Center(
 
-      child: Column(),
+      child: Column(
+        children: [Text("afra")],
+      ),
       ),
     );
   }
