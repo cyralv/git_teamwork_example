@@ -7,7 +7,10 @@ class LoginPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Scaffold(
       backgroundColor: Colors.amber ,
-      body: Center(),
+      body: Center(
+
+      child: Column(),
+      ),
     );
   }
 }
